@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+html {
+    font-size: 16px;
+}
+
+.box{
+    align-items: center;
+    font-size: 2rem;
+    background-color: #F2C6C2;
+    width: 18.75rem;
+    height: 6.25rem; 
+    padding: 1rem;
+    border: 0.3125rem solid #86A69D;
+    margin: 0;
+}
